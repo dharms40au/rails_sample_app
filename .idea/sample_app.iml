@@ -138,7 +138,6 @@
         <option value="mailer" />
         <option value="migration" />
         <option value="model" />
-        <option value="rack_profiler:install" />
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
@@ -168,7 +167,6 @@
         <option value="mailer" />
         <option value="migration" />
         <option value="model" />
-        <option value="rack_profiler:install" />
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
